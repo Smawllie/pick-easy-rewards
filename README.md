@@ -1,6 +1,7 @@
-# Team 4
+# PickEasy Rewards
 
-This is team 4's repository. The repository is organized so our team's deliverables are stored inside folders based on deliverable numbers, along with their corresponding presentation. All 
-of the code we are creating for our pickeasy project will be stored inside the pick-easy folder.
+This project contains a loyalty system web app for a start-up that won 1st place in the 2020 Summer Software Engineering course (CSCC01) at UTSC.
 
-![Alt text](pick-easy/assets/demo?raw=true "Demo")
+Made by: Luke Zhang, [Evan Ng](https://github.com/Evan8456), [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Pravinthan Prabagaran](github.com/pravinthan), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
+
+![Alt text](readme-assets/demo.png?raw=true "Demo")
